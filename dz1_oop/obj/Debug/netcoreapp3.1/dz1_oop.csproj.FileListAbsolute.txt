@@ -1,0 +1,14 @@
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\obj\Debug\netcoreapp3.1\dz1_oop.csproj.AssemblyReference.cache
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\obj\Debug\netcoreapp3.1\dz1_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\obj\Debug\netcoreapp3.1\dz1_oop.AssemblyInfoInputs.cache
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\obj\Debug\netcoreapp3.1\dz1_oop.AssemblyInfo.cs
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\obj\Debug\netcoreapp3.1\dz1_oop.csproj.CoreCompileInputs.cache
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\bin\Debug\netcoreapp3.1\dz1_oop.exe
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\bin\Debug\netcoreapp3.1\dz1_oop.deps.json
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\bin\Debug\netcoreapp3.1\dz1_oop.runtimeconfig.json
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\bin\Debug\netcoreapp3.1\dz1_oop.runtimeconfig.dev.json
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\bin\Debug\netcoreapp3.1\dz1_oop.dll
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\bin\Debug\netcoreapp3.1\dz1_oop.pdb
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\obj\Debug\netcoreapp3.1\dz1_oop.dll
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\obj\Debug\netcoreapp3.1\dz1_oop.pdb
+C:\Users\siric\source\repos\dz1_oop\dz1_oop\obj\Debug\netcoreapp3.1\dz1_oop.genruntimeconfig.cache
